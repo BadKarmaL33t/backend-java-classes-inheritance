@@ -1,4 +1,4 @@
-class CreditCard {
+abstract class CreditCard {
 
     private int debt;
 
